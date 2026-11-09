@@ -240,7 +240,7 @@
 | [NODO313](http://nodo313.net)                                                                                                              | ONLINE           |                                  |
 | [NOHIDESPACE](https://nohide.space)                                                                                                        | ONLINE           |                                  |
 | [NULLEDBB](https://nulledbb.com)                                                                                                           | ONLINE           |                                  |
-| [NULLED](https://www.nulled.to)                                                                                                            | SEIZED           |                                  |
+| [NULLED](https://www.nulled.sh)                                                                                                            | SEIZED           |                                  |
 | [NULLEDX](https://nulledx.to)                                                                                                              | ONLINE           |                                  |
 | [OGUSERS](https://www.oguser.com)                                                                                                          | ONLINE           |                                  |
 | [OLVX](https://olvx.cc)                                                                                                                    | ONLINE           |                                  |
